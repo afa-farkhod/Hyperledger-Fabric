@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\chaincode",
+    "\\money-app",
+    "\\money-app\\client",
+    "\\money-app\\src"
+  ],
+  "SelectedNode": "\\money-app\\controller.js",
+  "PreviewInSolutionExplorer": false
+}
