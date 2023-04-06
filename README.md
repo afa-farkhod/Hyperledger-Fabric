@@ -1,4 +1,5 @@
 # Black Money Usage Tracker Built on Hyperledger Fabric
+Implementation of Hyperledger Fabric with the demonstration and its usage against the black money counterfeit.
 
 _____________________________________________________
 Major problems which are need to be addressed in less economically developed countries in the Global Village are black money and
