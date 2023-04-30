@@ -36,9 +36,9 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 
 - Install node modules inside the money-app directory:
 
-<$cd...money-blockchain/money-app>
+`$cd...money-blockchain/money-app`
 
-<$npm install -g>
+`$npm install -g`
 
 - Then register admin:
 
