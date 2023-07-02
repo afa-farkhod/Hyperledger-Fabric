@@ -37,11 +37,10 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 ![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test1.PNG?raw=true)
 
 - Install node modules inside the money-app directory:
-
-`$cd...money-blockchain/money-app`
-
-`$npm install -g`
-
+  ```
+  $ cd...money-blockchain/money-app
+  $ npm install -g
+  ```
 - Then register admin:
 
 ![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test2.PNG?raw=true)
