@@ -52,7 +52,9 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 
 - Run the server:
 
-![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test4.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/af4092/money-blockchain/blob/master/images/Test4.PNG" alt="Image">
+</p>
 
 - Web API on web browser:
 
@@ -76,7 +78,9 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 
 - Create new packet to the ledger:
 
-![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test10.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/af4092/money-blockchain/blob/master/images/Test10.PNG" alt="Image">
+</p>
 
 - Generate unique id transaction:
 
@@ -100,7 +104,9 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 
 - Query all money packets after updating the owner information:
 
-![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test16.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/af4092/money-blockchain/blob/master/images/Test16.PNG" alt="Image">
+</p>
 
 - Owner update to the newest one on the terminal ledger:
 
