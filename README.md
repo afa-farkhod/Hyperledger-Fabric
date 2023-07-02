@@ -12,7 +12,7 @@ counterfeit. I implemented Hyperledger Fabric with real demonstrative web applic
   <img src="https://user-images.githubusercontent.com/24220136/231626996-af1607f9-0001-4855-ac8c-c1ddb3a4338a.png" alt="Image">
 </p>
 
-**1.1.	Problem Statement:**
+**1.1.	Problem Statement**
  
 - Major issues of our today's topic are black money and their negative consequences on the government’s economy and ordinary people 
 lifestyle. Counterfeit money is used illegally and its usage without paying any tax in the domestic market brings inflation in
