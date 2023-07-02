@@ -96,7 +96,9 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 
 - Changing money holder in the ledger:
 
-![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test14.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/af4092/money-blockchain/blob/master/images/Test14.PNG" alt="Image">
+</p>
 
 - Assigning transaction id:
 
