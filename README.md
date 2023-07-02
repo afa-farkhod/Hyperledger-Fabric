@@ -30,7 +30,7 @@ about its existence in the system. So that preventive action could be taken imme
 implementation of the Hyperledger Fabric technology. By making the ledger of all transactions including money serial numbers, our system
 automatically detects any kind of counterfeit money and prevents their usage in the market.    
 
-**1.3. Network setup and web application run:**
+**1.3. Network setup and web application run**
 
 - Bring up the Hyperledger Network, for this we have to be in money-blockchain/money-app directory: 
 
