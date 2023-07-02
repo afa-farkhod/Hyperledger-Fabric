@@ -21,7 +21,7 @@ demand for money in economies that have black market activities for their curren
 India, Pakistan, Uruguay and others. To be precise, foreign currency exchange rate in black market as double as the price in the 
 governmental official bank.      
 
-**1.2.	Solution:**
+**1.2.	Solution**
 
 - Ideal solution for the problem stated above is to come up with an efficient monitoring system which should have no any
 vulnerabilities against tracking counterfeit money and their usage in the domestic market. Monitoring should be done efficiently and
