@@ -32,7 +32,7 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 
 **1.3. Network setup and web application run**
 
-- Bring up the Hyperledger Network, for this we have to be in money-blockchain/money-app directory: 
+- Bring up the Hyperledger Network, for this we have to be in `money-blockchain/money-app` directory: 
 
 ![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test1.PNG?raw=true)
 
