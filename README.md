@@ -109,6 +109,6 @@ automatically detects any kind of counterfeit money and prevents their usage in 
   <img src="https://github.com/af4092/money-blockchain/blob/master/images/Test16.PNG" alt="Image">
 </p>
 
-- Owner update to the newest one on the terminal ledger:
+- Owner updates to the newest one on the terminal ledger:
 
 ![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test17.PNG?raw=true)
