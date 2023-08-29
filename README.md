@@ -111,10 +111,14 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 
 - Owner updates to the newest one on the terminal ledger:
 
-![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test17.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/af4092/money-blockchain/blob/master/images/Test17.PNG" alt="Image">
+</p>
 
 ## [Publication](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09354936&language=ko_KR&hasTopBanner=true)
 
+- Black money and fake money are two major conundrums to the development of the third world and particularly less economically developed countries worldwide.
+In the paper, we propose the mechanism which records money exchange information including the particular money with serial number, date, owner on the ledger and informs about black money when serial number does not match with the Public Ledger information.
 
 <p align="center">
   <img src="https://github.com/af4092/Hyperledger-Fabric/assets/24220136/16a6b45e-e06f-408b-80a8-8e5e86f86348" alt="Image">
