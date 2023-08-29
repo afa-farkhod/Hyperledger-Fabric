@@ -112,3 +112,6 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 - Owner updates to the newest one on the terminal ledger:
 
 ![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test17.PNG?raw=true)
+
+## [Publication](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09354936&language=ko_KR&hasTopBanner=true)
+
