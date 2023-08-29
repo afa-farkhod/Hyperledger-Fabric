@@ -114,3 +114,5 @@ automatically detects any kind of counterfeit money and prevents their usage in 
 ![alt text](https://github.com/af4092/money-blockchain/blob/master/images/Test17.PNG?raw=true)
 
 ## [Publication](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09354936&language=ko_KR&hasTopBanner=true)
+
+![image](https://github.com/af4092/Hyperledger-Fabric/assets/24220136/2c9cdc8b-acc2-414e-8ec1-9a778e2ff35b)
