@@ -1,6 +1,5 @@
 # [Black Money Usage Tracker Built on Hyperledger Fabric](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002594524)
 
-_____________________________________________________
 - Major problems which are need to be addressed in less economically developed countries in the Global Village are black money and
 counterfeit. I implemented Hyperledger Fabric with real demonstrative web application to solve the previously mentioned issue.
 
